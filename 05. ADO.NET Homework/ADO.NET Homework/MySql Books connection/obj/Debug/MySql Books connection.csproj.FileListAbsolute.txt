@@ -1,0 +1,7 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\bin\Debug\MySql Books connection.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\bin\Debug\MySql Books connection.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\bin\Debug\MySql Books connection.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\bin\Debug\MySql.Data.dll
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\obj\Debug\MySql Books connection.csprojResolveAssemblyReference.cache
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\obj\Debug\MySql Books connection.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\MySql Books connection\obj\Debug\MySql Books connection.pdb

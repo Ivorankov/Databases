@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\XML-Basics\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\XML-Basics\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\XML-Basics\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

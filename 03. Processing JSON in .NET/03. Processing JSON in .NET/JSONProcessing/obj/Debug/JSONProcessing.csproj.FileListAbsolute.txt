@@ -1,0 +1,8 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\bin\Debug\JSONProcessing.exe.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\bin\Debug\JSONProcessing.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\bin\Debug\JSONProcessing.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\bin\Debug\Newtonsoft.Json.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\bin\Debug\Newtonsoft.Json.xml
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\obj\Debug\JSONProcessing.csprojResolveAssemblyReference.cache
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\obj\Debug\JSONProcessing.exe
+c:\users\kjkjh\documents\visual studio 2013\Projects\03. Processing JSON in .NET\JSONProcessing\obj\Debug\JSONProcessing.pdb

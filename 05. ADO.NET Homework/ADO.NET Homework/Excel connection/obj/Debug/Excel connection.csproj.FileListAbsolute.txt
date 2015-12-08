@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\bin\Debug\Excel connection.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\bin\Debug\Excel connection.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\bin\Debug\Excel connection.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\obj\Debug\Excel connection.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\obj\Debug\Excel connection.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Excel connection\obj\Debug\Excel connection.csprojResolveAssemblyReference.cache

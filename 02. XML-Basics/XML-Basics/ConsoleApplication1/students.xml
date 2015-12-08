@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type='text/xsl' href='students.xslt'?>
+<students xmlns:student="urn:students">
+  <student>
+    <name>Student Guy</name>
+    <birthday>01.10.1991</birthday>
+    <gender>Male</gender>
+    <phone>007</phone>
+    <email>someGuy69@telerig.ch</email>
+    <course>Latin.Net</course>
+    <specialty>Parsing</specialty>
+    <faculty-number>006</faculty-number>
+    <exams>
+      <exam>
+        <name>KPK</name>
+        <tutor>Goncho</tutor>
+        <score>99.95</score>
+      </exam>
+      <exam>
+        <name>DataBase</name>
+        <tutor>Nvocho</tutor>
+        <score>0.95</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Student Girl</name>
+    <birthday>01.10.1991</birthday>
+    <gender>Female</gender>
+    <phone>008</phone>
+    <email>someGirl69@telerig.ch</email>
+    <course>Chineese++</course>
+    <specialty>CryptoTech</specialty>
+    <faculty-number>007</faculty-number>
+    <exams>
+      <exam>
+        <name>KPK</name>
+        <tutor>Goncho</tutor>
+        <score>65</score>
+      </exam>
+      <exam>
+        <name>DataBase</name>
+        <tutor>Nvocho</tutor>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+</students>

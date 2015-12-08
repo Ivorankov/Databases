@@ -1,0 +1,6 @@
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\bin\Debug\Northwind connetion.exe.config
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\obj\Debug\Northwind connetion.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\obj\Debug\Northwind connetion.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\bin\Debug\Northwind connetion.exe
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\bin\Debug\Northwind connetion.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\ADO.NET Homework\Northwind connetion\obj\Debug\Northwind connetcion.csprojResolveAssemblyReference.cache
