@@ -1,0 +1,10 @@
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll.config
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.xml
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.dll
+c:\users\kjkjh\documents\visual studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb
+C:\Users\kjkjh\Documents\Visual Studio 2013\Projects\StudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
